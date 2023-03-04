@@ -1,1 +1,1 @@
-Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
+Mi nombre es Emmanuel Montoya y hoy aprendi a utilizar los commits y subirlos a un repositorio en github
